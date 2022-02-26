@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The birth, life, death, wil, and epitaph, of Iack Puffe Gentleman.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76747</idno>
+            <idno type="STC">Wing B2979</idno>
+            <idno type="STC">Thomason E150_1</idno>
+            <idno type="STC">ESTC R15035</idno>
+            <idno type="EEBO-CITATION">99859789</idno>
+            <idno type="PROQUEST">99859789</idno>
+            <idno type="VID">156743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156743)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The birth, life, death, wil, and epitaph, of Iack Puffe Gentleman.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A verse satire on the Roundheads.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Roundheads --  Humor --  Early works to 1800.</term>
+               <term>Political ballads and songs --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156743:1"/>
+            <pb facs="tcp:156743:1" rendition="simple:additions"/>
+            <p>THE BIRTH, LIFE, DEATH, VVIL, AND EPITAPH, OF IACK PVFFE GENTLEMAN.</p>
+            <figure>
+               <figDesc>depiction of Jack Puffe</figDesc>
+            </figure>
+            <p>London, Printed for T.P. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:156743:2"/>
+            <pb n="1" facs="tcp:156743:2"/>
+            <head>The Birth, Life, Death, VVill, and Epitaph, of <hi>Iacke Puffe</hi> Gentleman.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>He people ſhun the wall, loe here he comes,</l>
+               <l>With fierce aſpect, the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lgar before runs,</l>
+               <l>To ſee his ſtradling gate, his hat advanc't</l>
+               <l>His down caſt eye, upon his boots are glanct</l>
+               <l>Who huggs himſelfe he's view'd ſo ſtrangely fine;</l>
+               <l>But one cryes there's a changeling of the time,</l>
+               <l>A moorcalfe; that doth change ſo of his ſhope.</l>
+               <l>In cloaths, as doth the Moone her bulke abate.</l>
+               <l>Stay cries a ſecond, you have fed enough,</l>
+               <l>All this ſame creature <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat you ſee's a puffe,</l>
+               <l>A blaſt, a vapour, that only a yeare,</l>
+               <l>Can make Inviſible for to appeare:</l>
+               <l>His birth did make his mothers mountaine ſhake,</l>
+               <l>While all the women did ſtand by and quake,</l>
+               <l>As did the people in old <hi>Aeſops</hi> time,</l>
+               <l>At the ſhockt mount, when forth a Mouſe did clime,</l>
+               <l>So did this creature, this ſame peece of ſtuffe,</l>
+               <l>Appeare, but forth at laſt came out a puffe,</l>
+               <l>But now grown up, as innocently good;</l>
+               <l>As he is ignorant, ſo long he ſtood</l>
+               <l>From ill: but now he is to London come,</l>
+               <l>For to ſee faſhions for faſhion he's undone,</l>
+               <l>And muſt be ill, for if he be nor, then</l>
+               <l>He is not ſo as other Gentlemen,</l>
+               <pb n="2" facs="tcp:156743:3"/>
+               <l> And to become a gradiate of the time,</l>
+               <l>He learnes the faſhions for to make him fine:</l>
+               <l>Then next, to ſcoffe and flout a Citizen,</l>
+               <l>Tearming them Round heads, for that they begin,</l>
+               <l>To aske their debts: but ſtay let me not erre</l>
+               <l>In blaming him who loves his Crediter;</l>
+               <l>One that doth meane to pay, but alas he</l>
+               <l>Thinkes it belongs not to Gentility:</l>
+               <l>For 'tis his glory, who thus can ſpeake,</l>
+               <l>I in one yeare ten Taylors did breake.</l>
+               <l>And now grown impupent, him next degree</l>
+               <l>Is to deſpiſe all manners that here be;</l>
+               <l>For 'tis the Frenchman doth his only pleaſe</l>
+               <l>Who buyed their formes, they give him their diſeaſe;</l>
+               <l>So that the vapour is all frenchified,</l>
+               <l>With our ſtucke b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nim, ſtreight breech; and ſpit at ſide.</l>
+               <l>More foole then feather, leſſe wit then haire,</l>
+               <l>Though there is one thing that in him is rare,</l>
+               <l>A true decorum, each in him doth find,</l>
+               <l>A ſimple carriage, to a fooliſh mind,</l>
+               <l>No puritane, I vow I thinke he's none,</l>
+               <l>For what he is he glories to make knowne,</l>
+               <l>He will not minde his othes, or ſticke to ſwere,</l>
+               <l>God dame him; doth he man or Diveil feare.</l>
+               <l>Not cares he, for his credit unto men,</l>
+               <l>If that the perſon be a Citizen:</l>
+               <l>But here he playes the Pope that doth no ſticke</l>
+               <l>To brearke all faith with an Heriticke:</l>
+               <l>He with a Citizen, what ſhall I pay,</l>
+               <l>My money to a Round, head, let him ſtay</l>
+               <l>Ile ſee <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he rogue firſt damd, my whore ſhall have,</l>
+               <pb n="3" facs="tcp:156743:3"/>
+               <l> A gown, my mony is not for a ſlave.</l>
+               <l>Now ſweld with debt, our Puffe to <hi>France</hi> is blowne,</l>
+               <l>
+                  <hi>England</hi> unworthy is of ſuch a one,</l>
+               <l>A land that borrowes all their wit from <hi>France,</hi>
+               </l>
+               <l>Who can't like them, on anticke forme advance,</l>
+               <l>They only by the vertue of the ſhire,</l>
+               <l>Can make a Country puffe ſo wife appeare</l>
+               <l>That when he's caiſt in a new ſute of cloathes,</l>
+               <l>No Councellor, carries ſo high his noſe;</l>
+               <l>But nere before, his mothers curds and c came,</l>
+               <l>Could adde, to make him thus ſo wifely ſeeme,</l>
+               <l>Ariv'd in <hi>France,</hi> he doth not long remaine,</l>
+               <l>Another puffe, ſoone puffes him backe again,</l>
+               <l>But all be frenchifide, he vowes the nation,</l>
+               <l>From all the world to excell in faſhion,</l>
+               <l>His Countries vile, they clownes that in it dwell,</l>
+               <l>But <hi>France</hi> in cloaths, and complement excell,</l>
+               <l>Shrowded in a ſtrange garbe he walkes the ſtreete.</l>
+               <l>At l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt his Creditor doth chance to meet,</l>
+               <l>Who ha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly now can know him by his feature,</l>
+               <l>and is amaz'd who ſhould be this creature</l>
+               <l>Vnto himſelfe, them ſpeakes, is this not him?</l>
+               <l>Whom that a yeare ago I ware did bring,</l>
+               <l>Sure his the ſame, or whoſoere he be,</l>
+               <l>Ile venture to areſt his bravery,</l>
+               <l>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffe then areſted, takes his next degree,</l>
+               <l>Within the Counters Vniverſity,</l>
+               <l>A ſtaid m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n now he is, for he is none,</l>
+               <l>Of thoſe that doth not keept themſelves at home,</l>
+               <l>Bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> here he doth not reſt himſelfe ſo long,</l>
+               <l>B<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all his cloaths and meanes is ſpent and gone,</l>
+               <pb n="4" facs="tcp:156743:4"/>
+               <l> That like ſome ancient eſcuchion he doth ſeeme</l>
+               <l>All tattered, in ſhew of no eſteeme,</l>
+               <l>Save that he's honoured of ſom, and for</l>
+               <l>He beares the coate of his brave anceſtor;</l>
+               <l>Who was a man perhaps of worth and Spirit,</l>
+               <l>Whoſe ſon doth but his meanes, not mind inherit,</l>
+               <l>But Puffe not long within the Counter lie's</l>
+               <l>But that with melancholy ſtreight he dyes:</l>
+               <l>For being ript, within was quickly found</l>
+               <l>Bills, bonds and notes of debt, that all lay round</l>
+               <l>His heart, that all men preſent did ſuppoſe,</l>
+               <l>The weight of theſe, thus ſoone his eyes did cloſe,</l>
+               <l>His will he left, but 'las 'twas his laſt will</l>
+               <l>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d't been his firſt, his wealth he had kept ſtill.</l>
+               <l>That all as he did now, ſhould hate a whore,</l>
+               <l>For that and wine, did make him dye thus poore:</l>
+               <l>N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt that no gallant ſhould not ought ſuppoſe</l>
+               <l>That Prayers and glory, doth conſiſt in cloathes,</l>
+               <l>Or for to court a wench with words compil'd,</l>
+               <l>Such ever fame, hath from her court exil'd,</l>
+               <l>But that they ra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her ſhould enrich their mind,</l>
+               <l>W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th armes and arts, 'tis thoſe that fame doth find,</l>
+               <l>Next in his will he Legacies did give,</l>
+               <l>Firſt all his vices, with our blades to live,</l>
+               <l>And for his <hi>French</hi> diſeaſe he did bequeath,</l>
+               <l>To all thoſe blades that cannot women leave.</l>
+               <l>Next that the Prentices ſhould have his cloaths,</l>
+               <l>To make ſhooclouts, for the ſhooes of thoſe,</l>
+               <l>Their Maſters, which before he had abuſ'd,</l>
+               <l>With n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me of Round-heads, and their debts refuſ'd,</l>
+               <l>As for his ſoule, I thinke it was forgot,</l>
+               <pb n="5" facs="tcp:156743:4"/>
+               <l> In's life, for here in's will, we find it not.</l>
+               <l>He never thought of it, ſure to bequeath,</l>
+               <l>He ever that did to God's mercy leave.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>His Epitaph.</head>
+            <l>HEre lyes <hi>Iack Puffe,</hi> wrapt up in his skin,</l>
+            <l>For want of a ſhirt he lveth thus thin,</l>
+            <l>Who like cut graſſe, did live but a day,</l>
+            <l>The ſunſhine of beauty ſoone burnt him to hay.</l>
+            <l>His bladder of life, by death being prick't</l>
+            <l>The bladder ſhrinkes up, Puffe out ſoone then skip't:</l>
+            <l>The great miſſe of winde might ſoone cauſe his death,</l>
+            <l>For how can a puffe be ought without breath:</l>
+            <l>But where he is gone, I hardly can tell,</l>
+            <l>Vnleſſe he doth with <hi>Boreas</hi> dwell,</l>
+            <l>That as in his life, ſo after his death,</l>
+            <l>He might keepe a ſtorm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng here ſtill upon Earth.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
